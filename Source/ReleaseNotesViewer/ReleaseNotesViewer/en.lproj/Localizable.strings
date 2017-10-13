@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  ReleaseNotesViewer
+
+  Created by Michael May on 13/10/2017.
+  Copyright © 2017 Michael May. All rights reserved.
+*/
+
+"whatsnew.title.text"="What's New in Version ${releaseVersion}";
+
